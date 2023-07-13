@@ -20,7 +20,7 @@ They are available in the `info` object of a parser instance and are also export
 * `bytes` (number)   
   Number of processed bytes.
 * `columns` (boolean || object)   
-  Normalized verion of `options.columns`.
+  Normalized version of `options.columns`.
 * `comment_lines` (number)   
   Count the number of lines being fully commented.
 * `empty_lines` (number)   
